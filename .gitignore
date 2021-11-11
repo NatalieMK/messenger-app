@@ -1,0 +1,9 @@
+xcuserdata/
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+timeline.xctimeline
+playground.xcworkspace
+.build/
+.DS_Store
